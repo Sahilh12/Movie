@@ -124,7 +124,7 @@ input,button{
 
 @media(max-width : 500px){
     button{
-        display: none;
+        /* display: none; */
     }
     header {
         padding: 9px 0px;
